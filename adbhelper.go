@@ -23,7 +23,7 @@ func main() {
 
 				fmt.Println("Package name:", GetPackageName())
 				fmt.Println("To change the package name set the environment variable $ADBHELPER_PACKAGE_NAME to com.yourcompany.yourapp")
-				
+
 				return nil
 			},
 		},
